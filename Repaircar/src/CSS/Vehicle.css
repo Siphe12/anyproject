@@ -1,0 +1,12 @@
+.grid-continer{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding:10px;
+  height: 100px;
+ 
+}
+
+.container img{
+    max-width:38%;
+    height: auto;
+}
