@@ -1,15 +1,16 @@
 import React from 'react'
 import Header from '../Components/Header'
 import Slide from '../Components/Slide'
-import Data from '../Data'
-import Vehicle from './Vehicle'
+import Footer from '../Components/Footer'
+
 
 function Home() {
   return (
     <div>
       <Header/>
       <Slide/>
-      <Vehicle/>
+      <Footer/>
+     
     </div>
   )
 }
