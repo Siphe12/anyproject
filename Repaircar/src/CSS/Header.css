@@ -4,7 +4,16 @@
   border-radius: 80%;
   }
 .navbar-brand {
-    font-size: 1.5rem;
-    background-color:brown;
-    ;
+    font-size: medium;
+    background-color: aqua;
+  }
+  .container-fluid{
+    background-color: darkgrey;
+
+    
+  }
+  .nav-link{
+    font-size: large;
+    color: white;
+    
   }

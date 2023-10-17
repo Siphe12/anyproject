@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom'
 import Data from '../Data'
 import '../CSS/vehicle.css'
 import Header from '../Components/Header'
-import Footer from '../Components/Footer'
+import '../CSS/Vehicle.css'
 function Vehicle() {
     return (
-        <div>
+        <div className="body">
             <Header />
-            
+
             <div className='grid-continer'>
 
                 {
@@ -23,13 +23,13 @@ function Vehicle() {
 
 
                                 <Link to={`/vehicle/${items.model}`}>
-                                    <button className="btn btn-success">Add to cart</button>
+                                    <button className=" btn-success">Add to cart</button>
                                 </Link>
-                               
+
                             </div>
 
                         </div>
-                        
+
                     )
                 }
             </div>

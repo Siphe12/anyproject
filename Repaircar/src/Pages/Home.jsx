@@ -4,6 +4,7 @@ import Slide from '../Components/Slide'
 import Footer from '../Components/Footer'
 
 
+
 function Home() {
   return (
     <div>

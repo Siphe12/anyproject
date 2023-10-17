@@ -27,7 +27,7 @@ function Footer() {
       <div className="container">
         <div className="row">
           <div className="col-md-8 col-sm-6 col-xs-12">
-            <p className="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
+            <p className="copyright-text">Copyright &copy; 2023 All Rights Reserved by 
          <a href="#">Repaircar</a>.
             </p>
           </div>
@@ -36,6 +36,7 @@ function Footer() {
             <ul className="social-icons">
               <li><a className="facebook" href="https://www.facebook.com/"><i class="bi bi-facebook"></i></a></li>
               <li><a className="twitter" href="https://twitter.com/"><i class="bi bi-twitter"></i></a></li>
+              <li><a className="Linkedin" href="https://www.linkedin.com"><i class="bi bi-linkedin"></i></a></li>
             </ul>
           </div>
         </div>
