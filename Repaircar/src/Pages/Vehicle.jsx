@@ -23,7 +23,7 @@ function Vehicle() {
 
 
                                 <Link to={`/vehicle/${items.model}`}>
-                                    <button className=" btn-success">Add to cart</button>
+                                    <button className=" btn-success">success</button>
                                 </Link>
 
                             </div>

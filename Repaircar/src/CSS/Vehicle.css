@@ -1,19 +1,16 @@
 .grid-continer{
   display: grid;
-  grid-template-columns: auto auto auto;
-  padding:10px;
-  gap: 10px;
-  height: 100px;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
- 
- 
+  grid-template-columns: auto auto auto ;
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
 }
+ 
 
 .container img{
-    max-width:38%;
-    height: auto;
-    grid-column: auto;
+    
+    height: 2rem;
+    grid-column: 2rem;
 
 
 }
@@ -23,11 +20,13 @@
 }
 
 .card-img-top{
- margin-top: 2rem;
- max-width: 30rem;
+ margin-top: 4rem;
+ height: 20rem;
+
 }
 
 .btn-success
 {
-margin-top: 2rem;
+margin-top: 1rem;
+border-radius: 1rem;
 }
