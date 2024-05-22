@@ -2,14 +2,14 @@
   display: grid;
   grid-template-columns: auto auto auto ;
   grid-gap: 10px;
-  background-color: #2196F3;
+  background-color: gray;
   padding: 10px;
 }
  
 
 .container img{
     
-    height: 2rem;
+    height: 20rem;
     grid-column: 2rem;
 
 

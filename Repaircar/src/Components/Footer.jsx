@@ -16,9 +16,9 @@ function Footer() {
           <div className="col-xs-6 col-md-3">
             <h6>Quick Links</h6>
             <ul className="footer-links">
-              <li><a href="http://localhost:5173/about">About Us</a></li>
-              <li><a href="http://localhost:5173/contact">Contact Us</a></li>
-              <li><a href="http://localhost:5173/Vehicle">Vehicle</a></li>
+              <li><a href="http://localhost:5174/about">About Us</a></li>
+              <li><a href="http://localhost:5174/contact">Contact Us</a></li>
+              <li><a href="http://localhost:5174/Vehicle">Vehicle</a></li>
             </ul>
           </div>
         </div>
